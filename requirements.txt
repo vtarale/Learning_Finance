@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+scipy
+backtrader
+yfinance
+QuantLib
+statsmodels
+seaborn
